@@ -1,0 +1,12 @@
+[{"feed_name": "BBC News - UK", "url": "http://feeds.bbci.co.uk/news/rss.xml?edition=uk"},
+{"feed_name": "BBC News - US", "url": "http://feeds.bbci.co.uk/news/rss.xml?edition=us"},
+{"feed_name": "BBC News - Intl", "url": "http://feeds.bbci.co.uk/news/rss.xml?edition=int"},
+{"feed_name": "Toms Hardware", "url": "https://www.tomshardware.com/uk/feeds/all"},
+{"feed_name": "BBC Weather", "url": "https://weather-broker-cdn.api.bbci.co.uk/en/forecast/rss/3day/3209928"},
+{"feed_name": "Pi Blog", "url": "https://www.raspberrypi.org/blog/feed/"},
+{"feed_name": "Adafruit", "url": "https://blog.adafruit.com/category/raspberry-pi/feed"},
+{"feed_name": "The PiHut", "url": "https://thepihut.com/blogs/raspberry-pi-roundup.atom"},
+{"feed_name": "Pimoroni", "url": "https://blog.pimoroni.com/rss/"},
+{"feed_name": "NASA Breaking", "url": "https://www.nasa.gov/rss/dyn/breaking_news.rss"},
+{"feed_name": "JPL News", "url": "https://www.jpl.nasa.gov/feeds/news/"},
+{"feed_name": "ISS News", "url": "https://blogs.nasa.gov/spacestation/feed/"},]
